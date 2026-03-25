@@ -4,7 +4,7 @@
 ## Anggota Kelompok
 | Nama           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-|                |            |           |
+| Acquirell Kriswanto               |    5025241035        |    D       |
 |                |            |           |
 
 ## Link Youtube (Unlisted)
