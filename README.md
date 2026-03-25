@@ -45,37 +45,57 @@ Link ditaruh di bawah ini
 
 ## Screenshot Hasil
 ### 1. server-sync.py
+
 <img width="1041" height="248" alt="image" src="https://github.com/user-attachments/assets/3efcb134-67b2-44cf-a197-0a5440b0cb82" />
+
 <br>
+
 `server sync hanya mendengarkan satu client dan menolak koneksi client lain`
+
 <br>
+
 <br>
+
 <img width="502" height="518" alt="image" src="https://github.com/user-attachments/assets/3b10a8e7-fcba-464a-bdc3-9323cb8fe5c2" />
+
 `hasil /list, /download, /upload`
+
 <br>
+
 ### 2. server-select.py
+
 <img width="1569" height="214" alt="image" src="https://github.com/user-attachments/assets/ff926d62-b5fc-4166-927d-1d85f74e4cf8" />
+
 `server select terhubung dengan 2 client`
+
 <br>
+
 <img width="1580" height="343" alt="image" src="https://github.com/user-attachments/assets/3131fb9a-afd3-4eaa-aaac-b3a92694c7a5" />
+
 `server select menghandle 2 client yang berbeda`
+
 <br>
+
 <br>
 
 ### 3. server-poll.py
+
 <img width="1266" height="235" alt="image" src="https://github.com/user-attachments/assets/6b3f3d12-4486-4647-bcad-ac3f9e1843ef" />
 
 `server poll terhubung dengan 2 client`
 
 <br>
+
 <img width="1274" height="171" alt="image" src="https://github.com/user-attachments/assets/2831892d-773d-4320-9171-e5da4f800b5b" />
 
 `server poll menghandle 2 client yang berbeda`
 
 <br>
+
 <br>
 
 ### 4. server-thread.py
+
 <img width="1574" height="210" alt="image" src="https://github.com/user-attachments/assets/5d70e049-786b-429f-99f0-be842d1b8bc1" />
 
 `server thread terhubung dengan 2 client`
@@ -85,5 +105,6 @@ Link ditaruh di bawah ini
 <img width="1566" height="357" alt="image" src="https://github.com/user-attachments/assets/2db8e432-9dfc-4722-83d3-4cf90dd5b2f4" />
 
 `server thread menghandle 2 client yang berbeda`
+
 <br>
 
